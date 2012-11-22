@@ -18,13 +18,11 @@ Or install it yourself as:
 
 Add the following directive to your Javascript manifest file (application.js):
 
-  //= require d3.v2
+  //= require d3
 
 ## Versioning
 
-d3js-rails 2.10.3 == d3.v2.js 2.10.3
-
-Every attempt is made to mirror the currently shipping d2.v2.js version number wherever possible. The major, minor, and patch version numbers will always represent the D3.js version. Should a gem bug be discovered, a 4th version identifier will be added and incremented.
+This gem's version will continue to mirror the version of d3.js. Should a gem bug be discovered, a 4th version identifier will be added and incremented.
 
 ## Contributing
 
